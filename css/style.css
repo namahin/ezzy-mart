@@ -442,7 +442,7 @@
  }
 
  .home-2-top {
-     background: #4a4cc2;
+     background: #1B93BD;
      padding: 10px 0 !important;
      transition: all 600ms ease-in;
  }
@@ -580,7 +580,7 @@
 
  /*-------------------- 5.Home 04 banner --------------------*/
  #banner-4 {
-     background-image: url(../img/banner-4.png);
+     background-image: url(../img/banner.png);
      background-repeat: no-repeat;
      background-size: cover;
      background-position: top;
