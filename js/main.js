@@ -192,10 +192,10 @@ $(function () {
  	          Preloader
  	 ----------------------------------------*/
 
- 	// $(window).on('load', function () {
- 	// 	$('#status').fadeOut();
- 	// 	$('#preloader').delay(350).fadeOut('slow');
- 	// });
+ 	$(window).on('load', function () {
+ 		$('#status').fadeOut();
+ 		$('#preloader').delay(350).fadeOut('slow');
+ 	});
 	 
 	     // Navigation hide on scroll on mobile screen
     $(window).on('scroll', function() {
